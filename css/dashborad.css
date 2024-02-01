@@ -1335,7 +1335,7 @@ ul {
     margin-right: 10px;
     
 }
-.files .uploaded button:hover i {
+.files .uploaded a:hover i {
     animation: top-down 0.8s infinite;
 }
 @media (max-width: 767px) {
